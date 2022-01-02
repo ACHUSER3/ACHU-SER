@@ -79,7 +79,7 @@ pkg install git
 pkg install bash
 ```
 ```
-git clone https://github.com/pepesir/Bosco.git 
+git clone https://github.com/ACHUSER3/ACHU-SER.git
 ```
 ```
 cd Bosco
