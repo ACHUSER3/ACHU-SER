@@ -9,9 +9,9 @@
 <div align="center">
 <img src="life.jpg" alt="Pepe" width="170" />
 
-# Bosco Bot
+# ACHU SER bot
 
-> Bosco Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> ACHU SER Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
 >
 
